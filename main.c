@@ -3,11 +3,10 @@
  *
  * SM_ELECTRICAL.c
  *
- * Created: 2020/08/30 09:34:52
+ * Created: 2020/03/30 09:34:52
  * Author : 8th
  *					
- *					KHUMBU - SMART ELECTRICAL METER
- *   					Computer Design	- 2020
+ *					 SMART ELECTRICAL METER
 ========================================================================*/
 
 
